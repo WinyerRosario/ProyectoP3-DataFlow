@@ -58,7 +58,7 @@ namespace Calculadora
                 }
                 else
                 {
-                    MessageBox.Show("No se puede dividir por cero!!");
+                    MessageBox.Show("No se puede dividir por cero!");
                 }
             }
         }
